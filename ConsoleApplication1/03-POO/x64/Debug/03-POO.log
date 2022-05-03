@@ -1,0 +1,6 @@
+﻿  03-POO.cpp
+C:\CPlusPlusDev\ConsoleApplication1\03-POO\03-POO.cpp(41,15): error C2011: 'MyClass': 'class' type redefinition
+C:\CPlusPlusDev\ConsoleApplication1\03-POO\03-POO.cpp(8): message : see declaration of 'MyClass'
+C:\CPlusPlusDev\ConsoleApplication1\03-POO\03-POO.cpp(49,32): error C2504: 'MyClass': base class undefined
+C:\CPlusPlusDev\ConsoleApplication1\03-POO\03-POO.cpp(93,11): error C2039: 'myFunction': is not a member of 'MyGrandChild'
+C:\CPlusPlusDev\ConsoleApplication1\03-POO\03-POO.cpp(53): message : see declaration of 'MyGrandChild'
